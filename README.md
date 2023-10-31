@@ -1,5 +1,5 @@
 # Gabble
-Gabble is a chatting app built in react native &amp; Nodejs :)
+Gabble is a chatting app built in react native &amp; Nodejs 
 
 <h1>Its Requirements</h1>
 1: Nodejs be installed<br>
