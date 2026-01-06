@@ -1,2 +1,2 @@
-model_name: testmodel
-image: testimage
+name: test
+enabled: true
